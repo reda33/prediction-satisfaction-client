@@ -19,11 +19,6 @@ Le dataset utilisé pour ce projet provient de [Source du dataset] et contient d
 - Scikit-learn pour le machine learning
 - Plotly pour la visualisation des données
 
-## Comment exécuter le projet
-1. Cloner ce dépôt : `git clone https://github.com/reda33/prediction-satisfaction-client`
-2. Installer les dépendances : `pip install -r requirements.txt`
-3. Lancer le script d'entraînement du modèle : `python train_model.py`
-
 ## Auteurs
 Rida KHAYI
 
